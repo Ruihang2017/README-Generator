@@ -2,6 +2,13 @@
 A professional readme generator that will safe time for the developer to create a good looking README file
 
 ## Requirement
-use node V16
 
-The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the INquirer packageLinks to an external site,, Review the Professsional README GuideLInks to an external site. as a reminder of everything that a high-quality, professional README should contain. 
+
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
