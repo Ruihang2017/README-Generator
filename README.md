@@ -12,7 +12,7 @@
   ## Installation
   Run the node index.js, input answers according to the questions.
   ## Usage
-  [Watch the Video](https://www.youtube.com/watch?v=your_video_id)
+  [Watch the Video](https://youtu.be/cGrIeXPSq84)
   ## License
   This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Contributing
