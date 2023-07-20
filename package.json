@@ -1,0 +1,12 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A professional readme generator that will safe time for the developer to create a good looking README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
