@@ -10,9 +10,9 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  Run the node index.js, input answers to the questions.
+  Run the node index.js, input answers according to the questions.
   ## Usage
-  n/a
+  [Watch the Video](https://www.youtube.com/watch?v=your_video_id)
   ## License
   This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Contributing
