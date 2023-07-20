@@ -1,7 +1,7 @@
-[![License](https://img.shields.io/badge/License-GPL-green.svg)](https://opensource.org/license/gpl-2-0/)
-  # Horace
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  # README Generator
   ## Description 
-  asdf
+  A tool to generate a professional readme that will safe time for the developer to create a good looking README file
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -10,16 +10,16 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  asdf
+  Run the node index.js, input answers to the questions.
   ## Usage
-  asd
+  n/a
   ## License
-  This project is licensed under the [![License](https://img.shields.io/badge/License-GPL-green.svg)](https://opensource.org/license/gpl-2-0/)
+  This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Contributing
-  safd
+  n/a
   ## Tests
-  safd
+  n/a
   ## Questions
-  ![githubIcon](./assest/icon/github.svg) Github: https://github.com/sadf
+  ![githubIcon](./assest/icon/github.svg) Github: https://github.com/ruihang2017
 
-  ![emailIcon](./assest/icon/envelope.svg)  Email: afsd
+  ![emailIcon](./assest/icon/envelope.svg)  Email: ruihang2017@gmail.com

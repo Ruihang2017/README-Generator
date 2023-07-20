@@ -1,14 +1,25 @@
-# README-Generator
-A professional readme generator that will safe time for the developer to create a good looking README file
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  # README Generator
+  ## Description 
+  A tool to generate a professional readme that will safe time for the developer to create a good looking README file
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+  ## Installation
+  Run the node index.js, input answers to the questions.
+  ## Usage
+  n/a
+  ## License
+  This project is licensed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  ## Contributing
+  n/a
+  ## Tests
+  n/a
+  ## Questions
+  ![githubIcon](./assest/icon/github.svg) Github: https://github.com/ruihang2017
 
-## Requirement
-
-
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+  ![emailIcon](./assest/icon/envelope.svg)  Email: ruihang2017@gmail.com
